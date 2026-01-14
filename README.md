@@ -53,7 +53,9 @@ The dataset contains information related to:
     │
     ├── blinkit_eda.ipynb
     ├── README.md
-    └── dataset/  ```
+    └── dataset/
+
+ ```
 
  ---
 
